@@ -19,6 +19,8 @@ public class Training {
 		
 		//WebElement email = driver.findElement(By.id("email"));
 		//email.click();
+
+//
 		
 		//WebElement email = driver.findElement(By.xpath("//input[@type='text']"));
 		//email.sendKeys("vishal.singh7582@gmail.com");
